@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Gambit",
+    "slug": "gambit-powerlifting",
+    "scheme": "gambit",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "plugins": ["expo-router"],
+    "web": { "bundler": "metro", "output": "single", "name": "Gambit" },
+    "ios": { "supportsTablet": true },
+    "android": { "package": "com.gambit.powerlifting" }
+  }
+}
