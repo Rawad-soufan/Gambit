@@ -104,4 +104,4 @@ I used AI to create the screen-flow diagram and organize the screenshots.
 
 ## Submission version
 
-The Project 1 source version is [Gambit commit 2f60c67](https://github.com/Rawad-soufan/Gambit/commit/2f60c6707636a64810b3ae5649d7ea47c51f9496).
+The [project-1-submission tag](https://github.com/Rawad-soufan/Gambit/tree/project-1-submission) identifies the exact commit packaged in the submitted project ZIP.
