@@ -98,6 +98,10 @@ After exporting, `node scripts/preview.cjs` serves the browser preview at `http:
 
 No backend, cloud authentication, account creation, social features, advanced charts, or game system is included.
 
+## AI use
+
+I used AI to create the screen-flow diagram and organize the screenshots.
+
 ## Submission version
 
 The Project 1 source version is [Gambit commit 2f60c67](https://github.com/Rawad-soufan/Gambit/commit/2f60c6707636a64810b3ae5649d7ea47c51f9496).
